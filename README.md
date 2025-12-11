@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 ## Hi 👋, I'm Manta 
 
-- 🔭 I’m currently working on [idea2app](https://idea2.app/)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - ❤️  🧗🚴🏃🎞️
 
